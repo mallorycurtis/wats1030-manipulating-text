@@ -1,5 +1,5 @@
 Eric Raymond’s 17 Unix Rules[edit]
-In his book The Art of Unix Programming that was first published in 2003, Eric S. Raymond, an American programmer and open source advocate, summarizes the Unix philosophy as KISS Principle of "Keep it Simple, Stupid." He provides a series of design rules:
+In his book The Art of Unix Programming that was first published in 2003,[11] Eric S. Raymond, an American programmer and open source advocate, summarizes the Unix philosophy as KISS Principle of "Keep it Simple, Stupid."[12] He provides a series of design rules:[13]
 
 Rule of Modularity
 Developers should build a program out of simple parts connected by well defined interfaces, so problems are local, and parts of the program can be replaced in future versions to support new features. This rule aims to save time on debugging code that is complex, long, and unreadable.
